@@ -1,6 +1,6 @@
 # My First Open Source Contribution
 
-Find the project website here : https://jhamadhav.com/myFirstOpenSourceContribution <br>
+Find the project website here : https://jwalapc.github.io/firstcontribution/ <br>
 Make your own contribution and add your name here !! <br>
 
 Hi there, let me walk you on how you can make your first Open-Source Contribution using this very project.
