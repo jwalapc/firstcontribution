@@ -8,7 +8,7 @@ let contributors = [{
     },
     {
         "github": "https://github.com/jwalapc",
-        "name": "Jwala "
+        "name": "Jwala Chorasiya "
     },
     {
         "github": "https://github.com/ShrutiMishra-2002",
