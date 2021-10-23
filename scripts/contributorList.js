@@ -39,5 +39,6 @@ let contributors = [{
         "github": "https://github.com/rishabhc9",
         "name": "Rishabh Chopda"
     },
-
-]
+        "githhub":"https://github.com/markandey007",
+        "name": "Markandey Sharma"
+    },               
