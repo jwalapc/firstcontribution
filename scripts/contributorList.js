@@ -61,23 +61,33 @@ let contributors = [{
     "githhub": "https://github.com/markandey007",
     "name": "Markandey Sharma"
 },
-      {
-        "github": "https://github.com/prads46",
-        "name": "Pradeep Yadav"
-    },
+{
+    "github": "https://github.com/prads46",
+    "name": "Pradeep Yadav"
+},
+{
+    "githhub": "https://github.com/meetshahk",
+    "name": "Meet Shah"
+},
 
-        "githhub":"https://github.com/meetshahk",
-        "name": "Meet Shah"
-    },  
+{
+    "github": "https://github.com/nitingupta-max",
+    "name": "Nitin Gupta"
+},
+
+{
+    "githhub": "https://github.com/Phantonym21",
+    "name": "Phantonym21"
+},
 
 
-        "github": "https://github.com/nitingupta-max",
-        "name": "Nitin Gupta"
-    },      
 
-    {
-        "githhub":"https://github.com/Phantonym21",
-        "name": "Phantonym21"
-    },                             
+
+{
+    "githhub": "https://github.com/adi1103sh",
+    "name": "Adarsh Sharma"
+},
+
+
 
 ]
