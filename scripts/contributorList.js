@@ -121,10 +121,15 @@ let contributors = [{
 },
 {
     "github": "https://github.com/artiyadav28",
-    "name": "Arti Yadav"        
+    "name": "Arti Yadav"
 },
 {
+    "github": "https://github.com/manishya1669",
+    "name": "Manish Yadav"
+},
+{
+
     "github": "https://github.com/anjali-yadav",
-    "name": "Anjali Yadav"        
+    "name": "Anjali Yadav"
 },
 ]
