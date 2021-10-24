@@ -80,7 +80,19 @@ let contributors = [{
 
     },   
     
+   
+    
+    
     {
+
+        "githhub":"https://github.com/Ronit11011",
+        "name": "Ronit Bhatt"
+    },               
+
+        "githhub":"https://github.com/meetshahk",
+        "name": "Meet Shah"
+    },  
+
         "githhub":"https://github.com/markandey007",
         "name": "Rahil Siddique"
     },   
@@ -88,6 +100,8 @@ let contributors = [{
         "name": "Komal Dewnani"
     },
        
+
+
 
 
 
