@@ -64,6 +64,16 @@ let contributors = [{
       
     
     {
+
+        "githhub":"https://github.com/markandey007",
+        "name": "Markandey Sharma"
+    },
+    
+    {
+        "github": "https://github.com/prads46",
+        "name": "Pradeep Yadav"
+    },
+
         "githhub":"https://github.com/meetshahk",
         "name": "Meet Shah"
     },  
@@ -72,6 +82,7 @@ let contributors = [{
         "github": "https://github.com/nitingupta-max",
         "name": "Nitin Gupta"
     },      
+
 
 
 ]
