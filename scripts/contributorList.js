@@ -62,11 +62,16 @@ let contributors = [{
     "name": "Markandey Sharma"
 },
       
-       
+    
     {
+        "githhub":"https://github.com/meetshahk",
+        "name": "Meet Shah"
+    },  
+
 
         "github": "https://github.com/nitingupta-max",
         "name": "Nitin Gupta"
     },      
+
 
 ]
