@@ -28,15 +28,12 @@ let contributors = [{
       {
         "github": "https://github.com/Aakashmau",
         "name": "Aakash Maurya"
-
     },
     {
-
         "github": "https://github.com/rohitg1010",
         "name": "Rohit Gupta"
     },
     {
-
         "github": "https://github.com/rishabhc9",
         "name": "Rishabh Chopda"
     },
@@ -44,6 +41,10 @@ let contributors = [{
         "github": "https://github.com/RishabhDhawad",
         "name": "Rishabh Dhawad"
     },
+    {
+        "github": "https://github.com/shrejal99",
+        "name": "Shrejal Singh"
+    }
 
 
     {
@@ -53,18 +54,48 @@ let contributors = [{
     },
 
 
+
+   
+
     
+
     {
 
         "githhub":"https://github.com/markandey007",
         "name": "Markandey Sharma"
-    },   
+    },        
+    {
+        "github": "https://github.com/Dubeysumeet",
+        "name": "Sumeet Dubey"
+    }
+       
+
+
+    }, 
     
     {
+        "githhub":"https://github.com/ysasikala29",
+        "name": "Yaramakula Sasikala"
+    }, 
+
+    },   
+    
+   
+    
+    
+    {
+
+        "githhub":"https://github.com/Ronit11011",
+        "name": "Ronit Bhatt"
+    },               
+
+        "githhub":"https://github.com/meetshahk",
+        "name": "Meet Shah"
+    },  
+
         "githhub":"https://github.com/markandey007",
         "name": "Rahil Siddique"
     },   
-=======
         "github": "https://github.com/komaldewnani",
         "name": "Komal Dewnani"
     },
@@ -74,6 +105,9 @@ let contributors = [{
         "name": "Arti Yadav"        
     }
        
+
+
+
 
 
 
