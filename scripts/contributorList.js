@@ -3,10 +3,18 @@ let contributors = [{
     "github": "https://github.com/jhamadhav",
     "name": "Madhav Jha"
 },
+
+{
+   "github": "https://github.com/MaheepK9",
+   "name": "Maheep Kumar"
+
+},
+
 {
     "github": "https://github.com/kiran11621",
     "name": "Kiran Maharana"
 },
+
 {
     "github": "https://github.com/jwalapc",
     "name": "Jwala Chorasiya "
