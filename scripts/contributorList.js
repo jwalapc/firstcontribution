@@ -68,6 +68,11 @@ let contributors = [{
         "github": "https://github.com/komaldewnani",
         "name": "Komal Dewnani"
     },
+            
+    {
+        "github": "https://github.com/artiyadav28",
+        "name": "Arti Yadav"        
+    }
        
 
 
