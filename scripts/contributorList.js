@@ -44,7 +44,7 @@ let contributors = [{
     {
         "github": "https://github.com/shrejal99",
         "name": "Shrejal Singh"
-    }
+    },
 
 
     {
@@ -65,10 +65,14 @@ let contributors = [{
         "githhub":"https://github.com/markandey007",
         "name": "Rahil Siddique"
     },   
-=======
+     {
         "github": "https://github.com/komaldewnani",
         "name": "Komal Dewnani"
     },
+    {
+        "github" : "https://github.com/manishya1669",
+        "name" : "Manish Yadav"
+    }
        
 
 
