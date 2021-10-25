@@ -58,7 +58,7 @@ let contributors = [{
 
 
 {
-    "githhub": "https://github.com/markandey007",
+    "github": "https://github.com/markandey007",
     "name": "Markandey Sharma"
 },
 {
@@ -66,7 +66,7 @@ let contributors = [{
     "name": "Pradeep Yadav"
 },
 {
-    "githhub": "https://github.com/meetshahk",
+    "github": "https://github.com/meetshahk",
     "name": "Meet Shah"
 },
 
@@ -76,12 +76,12 @@ let contributors = [{
 },
 
 {
-    "githhub": "https://github.com/Phantonym21",
+    "github": "https://github.com/Phantonym21",
     "name": "Phantonym21"
 },
 
 {
-    "githhub": "https://github.com/adi1103sh",
+    "github": "https://github.com/adi1103sh",
     "name": "Adarsh Sharma"
 },
 
@@ -90,7 +90,7 @@ let contributors = [{
     "name": "Komal Dewnani"
 },
 {
-    "githhub": "https://github.com/markandey007",
+    "github": "https://github.com/markandey007",
     "name": "Rahil Siddique"
 },
 {
@@ -98,11 +98,11 @@ let contributors = [{
     "name": "Shrejal Singh"
 },
 {
-    "githhub": "https://github.com/Hariharan1701",
+    "github": "https://github.com/Hariharan1701",
     "name": "Hariharan R"
 },
 {
-    "githhub": "https://github.com/ysasikala29",
+    "github": "https://github.com/ysasikala29",
     "name": "Yaramakula Sasikala"
 },
 {
@@ -111,7 +111,7 @@ let contributors = [{
 },
 {
 
-    "githhub": "https://github.com/Ronit11011",
+    "github": "https://github.com/Ronit11011",
     "name": "Ronit Bhatt"
 },
 {
@@ -134,7 +134,29 @@ let contributors = [{
 },
 {
 
-    "github": "https://github.com/sayakongit",
     "name": "Sayak Saha"
+=======
+    "github": "https://github.com/ND-19",
+    "name": "Nityansh Doshi"
+},
+]
+{
+    "github": "https://github.com/tausif39",
+    "name": "Tausiful Haque"
+]
+{
+
+    "github": "https://github.com/ritika-saha",
+    "name": "Ritika Saha"
+
+
+    "github": "https://github.com/RudraPratik30",
+    "name": "Pratik Agrawal"
+
+    "github": "https://github.com/hs414171",
+    "name": "Harshit Sharma"
+
+
+
 },
 ]
