@@ -140,6 +140,10 @@ let contributors = [{
 {
 
 
+    "github": "https://github.com/Akash20x",
+    "name": "Akash Jain"
+=======
+
     "github": "https://github.com/dpnshusharma",
     "name": "Deepanshu Sharma"
 =======
