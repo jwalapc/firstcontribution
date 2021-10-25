@@ -8,11 +8,6 @@ let contributors = [{
     "name": "Kiran Maharana"
 },
 {
-    "github": "https://github.com/AdityaR6",
-    "name": "Aditya Rajauria"
-},
-
-{
     "github": "https://github.com/jwalapc",
     "name": "Jwala Chorasiya "
 },
@@ -95,7 +90,7 @@ let contributors = [{
     "name": "Komal Dewnani"
 },
 {
-    "github": "https://github.com/markandey007",
+    "githhub": "https://github.com/markandey007",
     "name": "Rahil Siddique"
 },
 {
@@ -139,41 +134,49 @@ let contributors = [{
 },
 {
 
-
-    "github": "https://github.com/Akash20x",
-    "name": "Akash Jain"
-=======
-
-    "github": "https://github.com/dpnshusharma",
-    "name": "Deepanshu Sharma"
-=======
-    "github": "https://github.com/bhartimeena",
-    "name": "Bharti meena"
-
-    "name": "Sayak Saha"
-
-    "github": "https://github.com/ND-19",
-    "name": "Nityansh Doshi"
+    "github": "https://github.com/hs414171",
+    "name": "Harshit Sharma"
 },
-]
 {
-    "github": "https://github.com/tausif39",
-    "name": "Tausiful Haque"
-]
+
+    "github": "https://github.com/RudraPratik30",
+    "name": "Pratik Agrawal"
+},
 {
 
     "github": "https://github.com/ritika-saha",
     "name": "Ritika Saha"
-
-
-    "github": "https://github.com/RudraPratik30",
-    "name": "Pratik Agrawal"
-
-    "github": "https://github.com/hs414171",
-    "name": "Harshit Sharma"
-
-
-
-
 },
+{
+    "github": "https://github.com/tausif39",
+    "name": "Tausiful Haque"
+},
+{
+
+    "github": "https://github.com/ND-19",
+    "name": "Nityansh Doshi"
+},
+{
+    "github": "https://github.com/sayakongit",
+    "name": "Sayak Saha"
+},
+{
+    "github": "https://github.com/AdityaR6",
+    "name": "Aditya Rajauria"
+},
+{
+    "github": "https://github.com/bhartimeena",
+    "name": "Bharti meena"
+},
+{
+    "github": "https://github.com/dpnshusharma",
+    "name": "Deepanshu Sharma"
+},
+{
+    "github": "https://github.com/Akash20x",
+    "name": "Akash Jain"
+},
+
+
+
 ]
