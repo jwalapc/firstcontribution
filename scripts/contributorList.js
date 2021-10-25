@@ -134,6 +134,8 @@ let contributors = [{
 },
 {
 
+    "name": "Sayak Saha"
+=======
     "github": "https://github.com/ND-19",
     "name": "Nityansh Doshi"
 },
@@ -155,6 +157,6 @@ let contributors = [{
     "name": "Harshit Sharma"
 
 
-]
+
 },
 ]
