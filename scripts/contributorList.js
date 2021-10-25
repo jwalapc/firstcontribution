@@ -8,6 +8,11 @@ let contributors = [{
     "name": "Kiran Maharana"
 },
 {
+    "github": "https://github.com/AdityaR6",
+    "name": "Aditya Rajauria"
+},
+
+{
     "github": "https://github.com/jwalapc",
     "name": "Jwala Chorasiya "
 },
