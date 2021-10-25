@@ -139,8 +139,11 @@ let contributors = [{
 },
 {
 
+    "github": "https://github.com/bhartimeena",
+    "name": "Bharti meena"
+
     "name": "Sayak Saha"
-=======
+
     "github": "https://github.com/ND-19",
     "name": "Nityansh Doshi"
 },
@@ -160,6 +163,7 @@ let contributors = [{
 
     "github": "https://github.com/hs414171",
     "name": "Harshit Sharma"
+
 
 
 
