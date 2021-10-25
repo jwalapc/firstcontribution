@@ -132,6 +132,11 @@ let contributors = [{
     "github": "https://github.com/anjali-yadav",
     "name": "Anjali Yadav"
 },
+{
+
+    "github": "https://github.com/ND-19",
+    "name": "Nityansh Doshi"
+},
 ]
 {
     "github": "https://github.com/tausif39",
