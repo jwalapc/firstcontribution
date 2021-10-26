@@ -177,6 +177,11 @@ let contributors = [{
     "name": "Akash Jain"
 },
 {
+
+    "github":"https://github.com/krapirastogi",
+    "name":"Krapi Rastogi"
+}
+=======
     "github": "https://github.com/pabitrajana007",
     "name": "Pabitra Jana"
 },
