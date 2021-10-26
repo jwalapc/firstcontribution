@@ -1,4 +1,4 @@
-let contributors = [{
+let contributors = [{ 
 
     "github": "https://github.com/jhamadhav",
     "name": "Madhav Jha"
@@ -177,9 +177,24 @@ let contributors = [{
     "name": "Akash Jain"
 },
 {
+
     "github": "https://github.com/ngarg2k2",
     "name": "Nipun Garg"
 },
+=======
+    "github": "https://github.com/pabitrajana007",
+    "name": "Pabitra Jana"
+},
+{
+    github: "https://github.com/vijayyprajapati",
+    name: "Vijay  Kumar Prajapati"
+},
+{
+
+    "github":"https://github.com/krapirastogi",
+    "name":"Krapi Rastogi"
+},
+
 
 
 ]
