@@ -207,4 +207,9 @@ let contributors = [{
     "name":"Anamika Mallick"
 }
 
+{
+    "github":"https://github.com/awantikamallick",
+    "name":"Awantika"
+}
+
 ]
