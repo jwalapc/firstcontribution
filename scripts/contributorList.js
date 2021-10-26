@@ -181,7 +181,7 @@ let contributors = [{
     "github": "https://github.com/ngarg2k2",
     "name": "Nipun Garg"
 },
-=======
+{
     "github": "https://github.com/pabitrajana007",
     "name": "Pabitra Jana"
 },
@@ -194,7 +194,6 @@ let contributors = [{
     "github":"https://github.com/krapirastogi",
     "name":"Krapi Rastogi"
 },
-
-
+                  
 
 ]
