@@ -189,14 +189,17 @@ let contributors = [{
     "name": "Pabitra Jana"
 },
 {
-    github: "https://github.com/vijayyprajapati",
-    name: "Vijay  Kumar Prajapati"
+    "github": "https://github.com/vijayyprajapati",
+    "name": "Vijay  Kumar Prajapati"
 },
 {
 
     "github":"https://github.com/CT0410",
     "name":"Chetana Thorat"
 },
-                  
+{
 
+    "github":"https://github.com/SiddhantGupta14",
+    "name":"Siddhant Gupta"
+}
 ]
