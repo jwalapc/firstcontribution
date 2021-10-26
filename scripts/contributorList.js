@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 let contributors = [
   {
     github: "https://github.com/jhamadhav",
@@ -127,8 +127,11 @@ let contributors = [
     name: "Vijay  Kumar Prajapati",
   },
 ];
-=======
+
 let contributors = [{
+
+let contributors = [{ 
+
 
     "github": "https://github.com/jhamadhav",
     "name": "Madhav Jha"
@@ -306,8 +309,11 @@ let contributors = [{
     "github": "https://github.com/Akash20x",
     "name": "Akash Jain"
 },
+{
+    "github": "https://github.com/pabitrajana007",
+    "name": "Pabitra Jana"
+},
 
 
 
-]
->>>>>>> 74981b05274659775e55295e3a0c363c17a2a57a
+
