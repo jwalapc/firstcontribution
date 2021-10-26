@@ -191,8 +191,8 @@ let contributors = [{
 },
 {
 
-    "github":"https://github.com/krapirastogi",
-    "name":"Krapi Rastogi"
+    "github":"https://github.com/CT0410",
+    "name":"Chetana Thorat"
 },
                   
 
