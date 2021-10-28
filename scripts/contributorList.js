@@ -201,15 +201,19 @@ let contributors = [{
 
     "github":"https://github.com/SiddhantGupta14",
     "name":"Siddhant Gupta"
-}
+},
 {
     "github":"https://github.com/anamika1804",
     "name":"Anamika Mallick"
-}
+},
 
 {
     "github":"https://github.com/awantikamallick",
     "name":"Awantika"
-}
+},
 
+{
+    "github":"https://github.com/nilanshu24",
+    "name":"Nilanshu Hedaoo"
+}
 ]
