@@ -217,7 +217,13 @@ let contributors = [{
     "name":"Nilanshu Hedaoo"
 },
 {
+
+    "github":"https://github.com/priyakumari02",
+    "name":"Priya Kumari"
+}
+
     "github": "https://github.com/Himesh-15",
     "name": "Himesh Ganwani"
 },
+
 ]
