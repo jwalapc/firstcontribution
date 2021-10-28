@@ -216,7 +216,6 @@ let contributors = [{
     "github":"https://github.com/nilanshu24",
     "name":"Nilanshu Hedaoo"
 },
-
 {
     "github":"https://github.com/priyakumari02",
     "name":"Priya Kumari"
