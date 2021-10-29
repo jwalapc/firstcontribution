@@ -247,4 +247,9 @@ let contributors = [{
     "github": "https://github.com/Megghaanaa",
     "name": "Meghana"
 },
+{
+
+    "github": "https://github.com/ofuen",
+    "name": "Oscar"
+},
 ]
