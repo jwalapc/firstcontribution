@@ -16,6 +16,10 @@ let contributors = [{
     "name": "Shruti Mishra"
 },
 {
+    "github": "https://github.com/smanivesh",
+    "name": "Shubhangini Manivesh"
+},
+{
     "github": "https://github.com/Ankur-Kasaudhan",
     "name": "Ankur Kasaudhan"
 },
@@ -127,6 +131,7 @@ let contributors = [{
     "github": "https://github.com/manishya1669",
     "name": "Manish Yadav"
 },
+
 {
 
     "github": "https://github.com/anjali-yadav",
@@ -164,6 +169,7 @@ let contributors = [{
     "github": "https://github.com/AdityaR6",
     "name": "Aditya Rajauria"
 },
+
 {
     "github": "https://github.com/bhartimeena",
     "name": "Bharti meena"
