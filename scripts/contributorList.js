@@ -196,32 +196,32 @@ let contributors = [{
 },
 {
 
-    "github":"https://github.com/CT0410",
-    "name":"Chetana Thorat"
+    "github": "https://github.com/CT0410",
+    "name": "Chetana Thorat"
 },
 {
 
-    "github":"https://github.com/SiddhantGupta14",
-    "name":"Siddhant Gupta"
+    "github": "https://github.com/SiddhantGupta14",
+    "name": "Siddhant Gupta"
 },
 {
-    "github":"https://github.com/anamika1804",
-    "name":"Anamika Mallick"
-},
-
-{
-    "github":"https://github.com/awantikamallick",
-    "name":"Awantika"
+    "github": "https://github.com/anamika1804",
+    "name": "Anamika Mallick"
 },
 
 {
-    "github":"https://github.com/nilanshu24",
-    "name":"Nilanshu Hedaoo"
+    "github": "https://github.com/awantikamallick",
+    "name": "Awantika"
+},
+
+{
+    "github": "https://github.com/nilanshu24",
+    "name": "Nilanshu Hedaoo"
 },
 {
 
-    "github":"https://github.com/priyakumari02",
-    "name":"Priya Kumari"
+    "github": "https://github.com/priyakumari02",
+    "name": "Priya Kumari"
 },
 {
 
@@ -271,15 +271,19 @@ let contributors = [{
 {
     "github": "https://github.com/saitarun2002",
     "name": "Sai Tarun"
-},     
+},
 {
     "github": "https://github.com/utkchheda27",
     "name": "Utkarsh C"
-},    
+},
 {
     "github": "https://github.com/SamPanpaliya",
     "name": "Samiksha Panpaliya"
-},             
+},
+{
+    "github": "https://github.com/mayank35",
+    "name": "Mayank Kumar"
+},
 ]
 
 
