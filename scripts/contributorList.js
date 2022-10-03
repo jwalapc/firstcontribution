@@ -557,6 +557,12 @@ let contributors = [{
 {
     "github": "https://github.com/rapid-killer-9",
     "name": "Harsh Jha"
+
+},ans-p
+{
+    "github": "https://github.com/whythoSanskar",
+    "name": "Sanskar Mishra"
+
 }, 
 {
     "github": "https://github.com/devarsh1029",
@@ -566,6 +572,7 @@ let contributors = [{
     "github": "https://github.com/lonewolf0502",
     "name": "Aditya Dwivedi"
 }, 
+
 
 ]
 
