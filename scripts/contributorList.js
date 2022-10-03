@@ -573,9 +573,15 @@ let contributors = [{
     "name": "Aditya Dwivedi"
 }, 
 {
+
+    "github": "https://github.com/sumant7",
+    "name": "Sumant Chaudhary"
+}, 
+
     "github": "https://github.com/sajdoi2",
     "name": "Devarsh Sajdoi"
 }, 
+
 
 
 ]
