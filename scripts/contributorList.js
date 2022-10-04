@@ -314,5 +314,9 @@ let contributors = [{
         "github": "https://github.com/netkap",
         "name": "netkap"
 },
+{
+    "github": "https://github.com/bagusyumna",
+    "name": "Bagus Yumna"
+},
 ]
 
