@@ -322,5 +322,9 @@ let contributors = [{
     "github": "https://github.com/hpbonfim",
     "name": "Henrique tá na área"
 },
+{
+    "github": "https://github.com/KritikaTri",
+    "name": "Kritika Tripathi"
+},
 ]
 
