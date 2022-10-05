@@ -287,48 +287,29 @@ let contributors = [{
 {
     "github": "https://github.com/rapid-killer-9",
     "name": "Harsh Jha"
-},
+}, 
 {
     "github": "https://github.com/devarsh1029",
     "name": "Devarsh Shah"
-},
+},  
 {
     "github": "https://github.com/lonewolf0502",
     "name": "Aditya Dwivedi"
-},
+}, 
 {
     "github": "https://github.com/whythoSanskar",
     "name": "Sanskar Mishra"
-},
+}, 
 {
 
     "github": "https://github.com/sumant7",
     "name": "Sumant Chaudhary"
-},
+}, 
 {
 
     "github": "https://github.com/sajdoi2",
     "name": "Devarsh Sajdoi"
-},
-{
-        "github": "https://github.com/netkap",
-        "name": "netkap"
-},
-{
-    "github": "https://github.com/bagusyumna",
-    "name": "Bagus Yumna"
-},
-{
-    "github": "https://github.com/hpbonfim",
-    "name": "Henrique tá na área"
-},
-{
-    "github": "https://github.com/KritikaTri",
-    "name": "Kritika Tripathi"
-},
-{
-    "github": "https://github.com/fsenaweb",
-    "name": "Matheus Ricelly"
-},
+}, 
+
 ]
 
