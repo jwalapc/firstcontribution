@@ -309,7 +309,12 @@ let contributors = [{
 
     "github": "https://github.com/sajdoi2",
     "name": "Devarsh Sajdoi"
-}, 
+},
+{
+   
+    "github": "https://github.com/arnav850",
+    "name": "Arnav Gupta"
+},
 
 ]
 
