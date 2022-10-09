@@ -314,6 +314,9 @@ let contributors = [{
     "github": "https://github.com/Arsh000001",
     "name":"arsh srivastava"
 },
-
+{        
+    "github": "https://github.com/CHIRAGBHAI",
+    "name":"Chirag Bhagat"
+},
 ]
 
