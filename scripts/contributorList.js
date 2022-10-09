@@ -72,8 +72,8 @@ let contributors = [{
     {
         "github" : "https://github.com/manishya1669",
         "name" : "Manish Yadav"
-    }
-       
+    },
+    
 
 
 
