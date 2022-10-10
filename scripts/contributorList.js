@@ -319,8 +319,7 @@ let contributors = [{
     "name": "Arnav Gupta"
 },
 {
-    "github": "https://github.com/ragingrahul",
-    "name": "Rahul Raj Sarma" 
-}
+        "github": "https://github.com/Pranjal360Agarwal",
+        "name": "Pranjal Agarwal"
+},                  
 ]
-
