@@ -1,5 +1,12 @@
 
-let contributors = [{
+let contributors = [
+{
+
+        "github": "https://github.com/arpit5220",
+        "name": "Arpit Katiyar"
+},
+
+{
 
     "github": "https://github.com/jhamadhav",
     "name": "Madhav Jha"
@@ -19,6 +26,10 @@ let contributors = [{
 {
     "github": "https://github.com/Ankur-Kasaudhan",
     "name": "Ankur Kasaudhan"
+},
+{
+    "github": "https://github.com/warisamir",
+    "name": "Waris Amir"
 },
 {
 
@@ -321,9 +332,9 @@ let contributors = [{
 {
         "github": "https://github.com/Pranjal360Agarwal",
         "name": "Pranjal Agarwal"
-},   
-                    {
-        "github": "https://github.com/Pranavsingh8865",
-        "name": "Pranav Singh"
-}, 
+},  
+{
+        "github": "https://github.com/developerhimanshu",
+        "name": "Himanshu Singh"
+},  
 ]
