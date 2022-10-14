@@ -315,5 +315,7 @@ let contributors = [
     name: "utkarsh mohan ",
   },
   {
-    github: "
+    github: "https://github.com/Hittitech" ,
+    name:  "md adnan sami" ,
+  },
 ];
