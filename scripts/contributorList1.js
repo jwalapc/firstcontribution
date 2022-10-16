@@ -314,4 +314,8 @@ let contributors = [
     github: "https://github.com/UTKARSHMOHAN2003",
     name: "utkarsh mohan ",
   },
+  {
+    github: "https://github.com/Hittitech" ,
+    name:  "md adnan sami" ,
+  },
 ];
