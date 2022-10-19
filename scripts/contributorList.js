@@ -315,7 +315,7 @@ let contributors = [
     name: "Rahul Aggarwal",
   },
   {
-        "github": "https://github.com/Tyagirohan",
-        "name": "Rohan Tyagi"
+    github: "https://github.com/Ambarcode"
+    name: "Ambar Kansal" 
   },
 ];

@@ -318,4 +318,8 @@ let contributors = [
     github: "https://github.com/Hittitech" ,
     name:  "md adnan sami" ,
   },
+  {
+    github: "https://github.com/Mohammadkhan18" ,
+    name:  "mohammad khan" ,
+  },
 ];
