@@ -4,6 +4,10 @@ let contributors = [
     name: "Madhav Jha",
   },
   {
+    github: "https://github.com/urmil404",
+    name: "URMIL RUPARELIYA",
+  },
+  {
     github: "https://github.com/kiran11621",
     name: "Kiran Maharana",
   },
@@ -302,7 +306,7 @@ let contributors = [
     github: "https://github.com/abhishekSharmaGithub",
     name: "Abhishek Sharma",
   },
-   {
+  {
     github: "https://github.com/yash051103",
     name: "Yasharth Dwivedi",
   },
@@ -315,11 +319,11 @@ let contributors = [
     name: "utkarsh mohan ",
   },
   {
-    github: "https://github.com/Hittitech" ,
-    name:  "md adnan sami" ,
+    github: "https://github.com/Hittitech",
+    name: "md adnan sami",
   },
   {
-    github: "https://github.com/Mohammadkhan18" ,
-    name:  "mohammad khan" ,
+    github: "https://github.com/Mohammadkhan18",
+    name: "mohammad khan",
   },
 ];
