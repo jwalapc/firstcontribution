@@ -167,6 +167,10 @@ let contributors = [
     name: "Bharti meena",
   },
   {
+    github: "https://github.com/mohitpanthri",
+    name: "Mohit Panthri",
+  },
+  {
     github: "https://github.com/dpnshusharma",
     name: "Deepanshu Sharma",
   },
