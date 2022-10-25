@@ -326,4 +326,8 @@ let contributors = [
     github: "https://github.com/Ambarcode",
     name: "Ambar Kansal",
   },
+    {
+    github: "https://github.com/ngarg2k2",
+    name: "Nipun Garg",
+  },
 ];
