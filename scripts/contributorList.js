@@ -56,7 +56,10 @@ let contributors = [
     github: "https://github.com/RishabhDhawad",
     name: "Rishabh Dhawad",
   },
-
+  {
+    github: "https://github.com/nehallsharma",
+    name: "Nehal Sharma",
+  },
   {
     github: "https://github.com/neha030",
     name: "Neha Jha",
