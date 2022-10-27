@@ -61,6 +61,10 @@ let contributors = [
     name: "Nehal Sharma",
   },
   {
+  github: "https://github.com/nehallsharma",
+  name: "Nehal Sharma",
+  },
+  {
     github: "https://github.com/neha030",
     name: "Neha Jha",
   },
