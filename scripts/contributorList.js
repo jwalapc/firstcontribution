@@ -330,6 +330,10 @@ let contributors = [
     name: "Shreyansh Patwa",
   },
   {
+    github: "https://github.com/Ankit9126",
+    name: "Ankit Goyal",
+  },
+  {
     github: "https://github.com/Ambarcode",
     name: "Ambar Kansal",
   },
