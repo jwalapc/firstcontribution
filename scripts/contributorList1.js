@@ -1,16 +1,11 @@
 let contributors = [
   {
-    github: "https://github.com/horizenight",
-    name: "Kshitij Roodkee",
-  },
-  {
-    github: "https://github.com/arpit5220",
-    name: "Arpit Katiyar",
-  },
-
-  {
     github: "https://github.com/jhamadhav",
     name: "Madhav Jha",
+  },
+  {
+    github: "https://github.com/urmil404",
+    name: "URMIL RUPARELIYA",
   },
   {
     github: "https://github.com/kiran11621",
@@ -27,10 +22,6 @@ let contributors = [
   {
     github: "https://github.com/Ankur-Kasaudhan",
     name: "Ankur Kasaudhan",
-  },
-  {
-    github: "https://github.com/warisamir",
-    name: "Waris Amir",
   },
   {
     github: "https://github.com/ankurm23",
@@ -56,17 +47,15 @@ let contributors = [
     github: "https://github.com/RishabhDhawad",
     name: "Rishabh Dhawad",
   },
-  {
-    github: "https://github.com/nehallsharma",
-    name: "Nehal Sharma",
-  },
-  {
-  github: "https://github.com/nehallsharma",
-  name: "Nehal Sharma",
-  },
+
   {
     github: "https://github.com/neha030",
     name: "Neha Jha",
+  },
+
+  {
+    github: "https://github.com/suryanshsoni120",
+    name: "Suryansh Soni",
   },
 
   {
@@ -172,10 +161,6 @@ let contributors = [
   {
     github: "https://github.com/bhartimeena",
     name: "Bharti meena",
-  },
-  {
-    github: "https://github.com/mohitpanthri",
-    name: "Mohit Panthri",
   },
   {
     github: "https://github.com/dpnshusharma",
@@ -318,31 +303,31 @@ let contributors = [
     name: "Pranjal Agarwal",
   },
   {
-    github: "https://github.com/developerhimanshu",
-    name: "Himanshu Singh",
+    github: "https://github.com/abhishekSharmaGithub",
+    name: "Abhishek Sharma",
   },
   {
-    github: "https://github.com/Rahulagg13",
-    name: "Rahul Aggarwal",
+    github: "https://github.com/yash051103",
+    name: "Yasharth Dwivedi",
   },
   {
-    github: "https://github.com/Rock10578",
-    name: "Shreyansh Patwa",
+    github: "https://github.com/markandey007",
+    name: "Markandey Sharma",
   },
   {
-    github: "https://github.com/Ankit9126",
-    name: "Ankit Goyal",
+    github: "https://github.com/UTKARSHMOHAN2003",
+    name: "utkarsh mohan ",
   },
   {
-    github: "https://github.com/Ambarcode",
-    name: "Ambar Kansal",
-  },
-    {
-    github: "https://github.com/ngarg2k2",
-    name: "Nipun Garg",
+    github: "https://github.com/Hittitech",
+    name: "md adnan sami",
   },
   {
-    "github": "https://github.com/piyushgangwar",
-    "name": "Piyush Gangwar"
-},
+    github: "https://github.com/Mohammadkhan18",
+    name: "mohammad khan",
+  },
+  {
+    "github": "https://github.com/nikhil-pandey-digital",
+    "name": "Nikhil pandey",
+  },
 ];

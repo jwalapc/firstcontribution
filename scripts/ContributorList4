@@ -56,14 +56,7 @@ let contributors = [
     github: "https://github.com/RishabhDhawad",
     name: "Rishabh Dhawad",
   },
-  {
-    github: "https://github.com/nehallsharma",
-    name: "Nehal Sharma",
-  },
-  {
-  github: "https://github.com/nehallsharma",
-  name: "Nehal Sharma",
-  },
+
   {
     github: "https://github.com/neha030",
     name: "Neha Jha",
@@ -172,10 +165,6 @@ let contributors = [
   {
     github: "https://github.com/bhartimeena",
     name: "Bharti meena",
-  },
-  {
-    github: "https://github.com/mohitpanthri",
-    name: "Mohit Panthri",
   },
   {
     github: "https://github.com/dpnshusharma",
@@ -330,19 +319,23 @@ let contributors = [
     name: "Shreyansh Patwa",
   },
   {
-    github: "https://github.com/Ankit9126",
-    name: "Ankit Goyal",
-  },
-  {
     github: "https://github.com/Ambarcode",
     name: "Ambar Kansal",
   },
-    {
-    github: "https://github.com/ngarg2k2",
-    name: "Nipun Garg",
+  {
+    github: "https://github.com/ayush-1123",
+    name: "Ayush Gupta",
   },
   {
-    "github": "https://github.com/piyushgangwar",
-    "name": "Piyush Gangwar"
-},
+    github: "https://github.com/squirrel129",
+    name: "Squirrel",
+  },
+  {
+    github: "https://github.com/amarcode1",
+    name: "Amar",
+  },
+  {
+    github: "https://github.com/Jinia16",
+    name: "Jinia",
+  }
 ];
