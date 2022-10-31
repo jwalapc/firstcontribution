@@ -97,4 +97,4 @@ Click `Create pull request`
 Add meaningful request message denoting your changes and then click `Create pull request`
 <img src="./images/contributionSteps/createPullRequest.jpeg">
 
-with this you have successfully made your first contribution in an Open-Source projects!!!
+with this you have successfully made your first contribution in an Open-Source project.
