@@ -355,7 +355,11 @@ let contributors = [
   "name": "Vinay"
 },
 {
-  "github": "https://github.com/Shreyanshsingh23",
-  "name": "Shreyansh Singh Gautam ",
+  "github": "https://github.com/bamof25th",
+  "name": "Aniket Baghel"
 },
+  {
+   "github": "https://github.com/Shreyanshsingh23",
+  "name": "Shreyansh Singh Gautam "
+  },
 ];
