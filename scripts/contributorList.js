@@ -358,4 +358,8 @@ let contributors = [
   "github": "https://github.com/bamof25th",
   "name": "Aniket Baghel"
 },
+  {
+   "github": "https://github.com/Shreyanshsingh23",
+  "name": "Shreyansh Singh Gautam "
+  },
 ];
